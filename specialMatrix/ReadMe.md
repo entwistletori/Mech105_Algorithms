@@ -1,4 +1,4 @@
-Creates a special n x m matrix
+# Creates a special n x m matrix
 Objectives
 - The value of each element in the first row is the number of the column.
 - The value of each element in the first column is the number of the row.
