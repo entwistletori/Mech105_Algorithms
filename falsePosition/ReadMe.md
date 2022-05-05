@@ -1,4 +1,4 @@
-# estimates the root of a given function
+# Estimates the Root of a Given Function
 Inputs:
 * func - the function being evaluated
 * xl - the lower guess
